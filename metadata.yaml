@@ -1,0 +1,26 @@
+_repo: With-an-Ambulance-During-the-Franco-German-WarPersonal-Experiences-and-Adventures-with-Both-A__41689
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41689-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ryan, Charles Edward
+    gutenberg_agent_id: '41302'
+    url: http://www.gutenberg.org/2009/agents/41302
+description: ''
+gutenberg_issued: '2012-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41689'
+  lccn: '02021021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Civilian relief'
+- !lcc 'DC'
+title: "With an Ambulance During the Franco-German War\r\nPersonal Experiences and\
+  \ Adventures with Both Armies, 1870-1871"
+url: http://www.gutenberg.org/ebooks/41689
